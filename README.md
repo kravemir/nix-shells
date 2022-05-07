@@ -1,7 +1,7 @@
 nix-shells
 ==========
 
-Repository contains of `nix-shell` configurations for **virtual environment** creation with specific software versions.
+Repository contains configurations for `nix-shell` to create **virtual environment** with specific software versions.
 
 ## Usage
 
