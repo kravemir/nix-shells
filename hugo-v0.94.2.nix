@@ -12,9 +12,9 @@ let
       sha256 = "sha256:1pdahyw0addlyl1nq6igbnrvwbkqriy7w1nwhkiz0apj2gi70l3w";
     };
 
-    vendorSha256 = "sha256:0hykczsjdgq74d6kx97z3ziaign4ic7vc3airsvnykkdfdl2qmqg";
+    vendorSha256 = "sha256-cjpvHIqF106HfNH//ugGkhKLc3k5oT8lAviGPpKKoro=";
     doCheck = false;
-    runVend = true;
+    proxyVendor = true;
 
     tags = [ "extended" ];
 
