@@ -6,6 +6,10 @@ in pkgs.mkShell rec {
 
   buildInputs = with pkgs; [
     python3
+
+    openssl
+    openssl_1_1
+
     cpkgs.nodejs-16_15_0
   ];
 }
